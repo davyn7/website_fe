@@ -347,7 +347,7 @@ const Home: NextPage = () => {
                         </div>
                         <div style={{marginTop: '2vh'}}>
                             <Typography variant="subtitle2" fontSize="1.4vw" gutterBottom>
-                                If you're interested in collaborating with me, please fill out the rate card request form. I'll reach out as soon as possible!
+                                If you&apos;re interested in collaborating with me, please fill out the rate card request form. I&apos;ll reach out as soon as possible!
                             </Typography>
                         </div>
                     </Grid>

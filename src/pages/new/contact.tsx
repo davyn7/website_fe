@@ -63,7 +63,7 @@ const Home: NextPage = () => {
                         </div>
                         <div style={{marginTop: '2vh'}}>
                             <Typography variant="subtitle2" fontSize="1.4vw" gutterBottom>
-                                I'd love to hear from you! If you have any questions, concerns, inputs, or just wanna say hi, feel free to reach out to me by submitting the form. I'll get back to you as soon as I can!
+                                I&apos;d love to hear from you! If you have any questions, concerns, inputs, or just wanna say hi, feel free to reach out to me by submitting the form. I&apos;ll get back to you as soon as I can!
                             </Typography>
                         </div>
                     </Grid>
