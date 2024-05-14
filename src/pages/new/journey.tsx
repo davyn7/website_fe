@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Typography variant="h2" textAlign="center">
-        Hello, World
+        Journey
       </Typography>
     </div>
   );

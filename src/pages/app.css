@@ -1,0 +1,10 @@
+.icon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4%;
+}
+
+.icon:hover {
+    color: #6366F1
+}
